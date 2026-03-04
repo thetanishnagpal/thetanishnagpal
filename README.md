@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Tanish-dev69&color=9e9e9e)
+![](https://komarev.com/ghpvc/?username=Tanish-dev69&color=red)
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -38,7 +38,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanish-dev69&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish-dev69&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish-dev69)](https://github.com/Tanish-dev69/github-readme-stats)
 
+
+![Snake animation](https://github.com/Tanish-dev69/Tanish-dev69/blob/output/github-contribution-grid-snake.svg)
 
 
