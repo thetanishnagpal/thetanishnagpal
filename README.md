@@ -1,46 +1,62 @@
-## 👋 Hi there, I'm Tanish Nagpal !
+<h1 align="center">Hi 👋, I'm Tanish Nagpal</h1>
+<h3 align="center">BTech Student | Developer | Exploring Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanish-dev69&color=red" alt="profile views"/>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Tanish-dev69&color=red)
+### About Me
 
-<h3>When I code, I rely on</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+* BTech student at **Chitkara University**
+* Interested in **Web Development, Cybersecurity, and Problem Solving**
+* Currently building projects and learning **Data Structures & Algorithms**
+
+---
+
+### Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,java,mongodb,git,docker,render" />
+
 </p>
 
-<h3>My GitHub contributions summary</h3>
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanish-dev69&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+### GitHub Stats
 
-[![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish-dev69)](https://github.com/Tanish-dev69/github-readme-stats)
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanish-dev69&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Snake animation](https://github.com/Tanish-dev69/Tanish-dev69/blob/output/github-contribution-grid-snake.svg)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish-dev69&theme=tokyonight&hide_border=true"/>
 
+</p>
 
+---
+
+### Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tanish-dev69/Tanish-dev69/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### Featured Projects
+
+* **Cafe Management System** – Full stack system for managing cafe orders, menu, and customers
+* **Code Editor Website** – Browser-based coding platform with API-based code execution
+* **Problem Solving Platform** – Platform for practicing coding problems with test cases
+
+---
+
+### Connect With Me
+
+<p align="center">
+
+<a href="mailto:nagpaltanish6@gmail.com">Email</a> • <a href="https://linkedin.com/in/tanish-nagpal">LinkedIn</a> • <a href="https://github.com/Tanish-dev69">GitHub</a>
+
+</p>
