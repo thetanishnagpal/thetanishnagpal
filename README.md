@@ -1,26 +1,40 @@
-<h1 align="center">Hi 👋, I'm Tanish Nagpal</h1>
-<h3 align="center">BTech Student | Developer | Exploring Cybersecurity</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thetanishnagpal&color=red" alt="profile views"/>
-</p>
-
----
+# Hi, I'm Tanish Nagpal
 
 ### About Me
 
-* BTech student at **Chitkara University**
-* Interested in **Web Development, Cybersecurity, and Problem Solving**
-* Currently building projects and learning **Data Structures & Algorithms**
+- BTech CSE student at **Chitkara University**
+- Currently in my **5th semester**
+- Aspiring **AI Engineer**
+- Interested in **AI/ML, Backend Engineering, System Design, and Problem Solving**
+- Currently working on **Data Structures & Algorithms, Python, AI/ML, and LLMs**
+- I enjoy building practical applications and understanding how systems work under the hood
 
 ---
 
 ### Languages and Tools
 
-<p align="center">
+#### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,java,mongodb,git,docker,render" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,mysql" />
+</p>
 
+#### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+#### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+#### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,vscode,vite" />
 </p>
 
 ---
@@ -28,37 +42,100 @@
 ### GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thetanishnagpal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetanishnagpal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=thetanishnagpal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetanishnagpal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
+---
 
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thetanishnagpal&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/thetanishnagpal/thetanishnagpal/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thetanishnagpal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ### Featured Projects
 
-* **Cafe Management System** – Full stack system for managing cafe orders, menu, and customers
-* **Code Editor Website** – Browser-based coding platform with API-based code execution
-* **Problem Solving Platform** – Platform for practicing coding problems with test cases
+#### Cafe Management System
+
+Web-based system for managing:
+
+- Menu items
+- Customer orders
+- Inventory
+- Customer loyalty features
+
+**Tech:** HTML • CSS • JavaScript • jQuery
 
 ---
 
-### Connect With Me
+#### Code Editor Website
 
-<p align="center">
+Browser-based coding platform that allows users to write and execute code through an API.
 
-<a href="mailto:nagpaltanish6@gmail.com">Email</a> • <a href="https://linkedin.com/in/tanish-nagpal">LinkedIn</a> • <a href="https://github.com/thetanishnagpal">GitHub</a>
+**Features:**
 
-</p>
+- Online code editor
+- API-based code execution
+- Multiple programming languages
+- Output display
+
+---
+
+#### Problem Solving Platform
+
+Coding practice platform designed for solving programming problems.
+
+**Features:**
+
+- Coding problems
+- Test cases
+- Code submission
+- Automated evaluation
+
+---
+
+#### AI Engineering Projects
+
+Currently building practical projects around:
+
+- LLMs
+- RAG
+- AI Agents
+- APIs
+- Prompt Engineering
+- AI-powered applications
+
+---
+
+### Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Python
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+LLMs
+        ↓
+RAG
+        ↓
+AI Agents
+        ↓
+System Design
+        ↓
+Production AI Systems
